@@ -8,9 +8,9 @@
   👱‍♂️ Meu nome é Nickolas, mas pode me chamar de Nick
   👶 Tenho 28 anos
   📖 Vim das humanas: sou formado em Relações Internacionais
-  🕖 Meus 7 anos de experiência em Customer Success ficaram no passado, mas estou seguro de que eles serão de grande ajuda na minha carreira em Tecnologia
-  💻 Atualmente sou Scrum Master em uma fintech de gateway de pagamento
-  ⏩ Atualmente sou aluno da 13º edição do Starter Full-Stack da Growdev, com o intuito de me tornar um profissional de tecnologia completo
+  🕖 Tenho 7 anos de experiência profissional na área de Customer Success e estou me mudando para a tecnologia
+  💻 Atualmente atuo como Scrum Master em uma fintech de gateway de pagamento
+  ⏩ Sou aluno da 13º edição do Starter Full-Stack da Growdev, com o intuito de me tornar um profissional de tecnologia completo
   🏅 Sou certificado Scrum Master pela Scrum Alliance (CSM) e profissional gerenciador de Kanban pela Kanban University (KMPI)
   💞 Amando o Scrum
   🗣 Falante nato
