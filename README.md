@@ -1,4 +1,4 @@
-<img align="right" src="https://i.ibb.co/SNnLtVK/octocat-1673226204150.png" width="450" height="508"/>
+<img align="right" src="https://i.ibb.co/SNnLtVK/octocat-1673226204150.png" width="300" height="339"/>
 
 <div>
 
