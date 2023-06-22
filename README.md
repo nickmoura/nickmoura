@@ -9,7 +9,6 @@
   👶 Tenho 28 anos
   📖 Vim das humanas: sou formado em Relações Internacionais
   🕖 Tenho 7 anos de experiência profissional na área de Customer Success e estou me mudando para a tecnologia
-  ⏩ Sou aluno da 13º edição do Starter Full-Stack da Growdev, com o intuito de me tornar um profissional de tecnologia completo
   🏅 Sou certificado Scrum Master pela Scrum Alliance (CSM) e profissional gerenciador de Kanban pela Kanban University (KMPI)
   💞 Amando o Scrum
   🗣 Falante nato
