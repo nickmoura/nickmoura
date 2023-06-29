@@ -1,5 +1,3 @@
-<img align="right" src="https://i.ibb.co/SNnLtVK/octocat-1673226204150.png" width="300" height="339"/>
-
 <div>
 
 ```JS
@@ -29,14 +27,12 @@
 </div>
 
 ##
-<img width="30" alt="tools" align="left" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" />
-<img width="30" alt="tools" align="right" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" />
 
 <div align="center"> 
 
 ```Contato:```
 
-[![nick]( https://img.shields.io/github/followers/nickmoura?label=follow&style=social)]([LINK-DO-SEU-GITHUB](https://github.com/nickmoura/NickMoura)) <a href="https://open.spotify.com/user/12177611595"><img src="https://img.shields.io/badge/Nick-05122A.svg?style=plastic&logo=spotify&logoColor=green" alt="LinkedIn"/></a> <a href="https://www.linkedin.com/in/nickmoura/"><img src="https://img.shields.io/badge/Nick-05122A.svg?style=plastic&logo=linkedin&logoColor=blue" alt="LinkedIn"/></a> </a> <a href="mailto:nickmoura26@gmail.com"><img img src="https://img.shields.io/badge/Nick-05122A.svg?style=plastic&logo=gmail&logoColor=red" alt="Gmail"/></a>
+[![nick]( https://img.shields.io/github/followers/nickmoura?label=follow&style=social)]((https://github.com/nickmoura/NickMoura)) <a href="https://open.spotify.com/user/12177611595"><img src="https://img.shields.io/badge/Nick-05122A.svg?style=plastic&logo=spotify&logoColor=green" alt="LinkedIn"/></a> <a href="https://www.linkedin.com/in/nickmoura/"><img src="https://img.shields.io/badge/Nick-05122A.svg?style=plastic&logo=linkedin&logoColor=blue" alt="LinkedIn"/></a> </a> <a href="mailto:nickmoura26@gmail.com"><img img src="https://img.shields.io/badge/Nick-05122A.svg?style=plastic&logo=gmail&logoColor=red" alt="Gmail"/></a>
 <a href="http://discordapp.com/users/NickMoura#1723"><img src="https://img.shields.io/badge/Nick-05122A.svg?style=plastic&logo=discord&logoColor=blue" /></a>
 
 </div>
