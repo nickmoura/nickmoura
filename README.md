@@ -2,12 +2,20 @@
 
 - 🎯 I always try to accomplish my goals
 - 📫 My email for contact: **nickmoura26@gmail.com**
-- 😄 Fun fact: I love love rock and soccer (football for the UK ones...)
+- 🏠 I live both in Sorocaba and São Paulo
+- 💻 I focus in **front-end development**
+- 😄 Fun fact: I love:
+  - 🎸 Rock
+  - ⚽ Soccer (football for the UK ones...)
+  - 🏎️ Formula 1
+  - 😺 Cats
+  - 🍔 Burgers
+  - 🍣 Sushi and japanese food in general
 
 
 # 🎨 Portfolio:
 
-My portfolio is available at: <a href="www.nickmoura.dev">nickmoura.dev</a>.
+My portfolio is available at <a href="www.nickmoura.dev">nickmoura.dev</a>.
 
 # 💻 Tech Stack:
 
