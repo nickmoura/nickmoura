@@ -4,13 +4,14 @@
 - 📫 My email for contact: **nickmoura26@gmail.com**
 - 🏠 I live both in Sorocaba and São Paulo
 - 💻 I focus in **front-end development**
-- 😄 Fun fact: I love:
-  - 🎸 Rock
-  - ⚽ Soccer (football for the UK ones...)
-  - 🏎️ Formula 1
-  - 😺 Cats
-  - 🍔 Burgers
-  - 🍣 Sushi and japanese food in general
+- 😄 Fun fact:
+  - I love:
+    - 🎸 Rock
+    - ⚽ Soccer (football for the UK ones...)
+    - 🏎️ Formula 1
+    - 😺 Cats
+    - 🍔 Burgers
+    - 🍣 Sushi and japanese food in general
 
 
 # 🎨 Portfolio:
