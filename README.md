@@ -16,7 +16,7 @@
 
 # 🎨 Portfolio:
 
-My portfolio is available at <a href="www.nickmoura.dev">nickmoura.dev</a>.
+My portfolio is available at <a href="https://www.nickmoura.dev">nickmoura.dev</a>.
 
 # 💻 Tech Stack:
 
