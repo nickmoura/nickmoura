@@ -3,7 +3,7 @@
 - 🎯 I always try to accomplish my goals
 - 📫 My email for contact: **nickmoura26@gmail.com**
 - 🏠 I live both in Sorocaba and São Paulo
-- 💻 I focus in **front-end development**
+- 💻 I focus in **full stack web development**
 - 😄 Fun fact:
   - I love:
     - 🎸 Rock
