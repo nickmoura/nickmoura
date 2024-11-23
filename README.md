@@ -3,7 +3,7 @@
 - 🎯 I always try to accomplish my goals
 - 📫 My email for contact: **nickmoura26@gmail.com**
 - 🏠 I live both in Sorocaba and São Paulo
-- 💻 I focus in **front-end development**
+- 💻 I focus in **full stack web development**
 - 😄 Fun fact:
   - I love:
     - 🎸 Rock
@@ -16,7 +16,7 @@
 
 # 🎨 Portfolio:
 
-My portfolio is available at <a href="www.nickmoura.dev">nickmoura.dev</a>.
+My portfolio is available at <a href="https://www.nickmoura.dev">nickmoura.dev</a>.
 
 # 💻 Tech Stack:
 ![Node.js](https://img.shields.io/badge/NODE.JS-%2380BD41?style=for-the-badge&logo=node.js&logoColor=white&labelColor=%2380BD41) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/Javascript-F7E018?style=for-the-badge&logo=javascript&color=black) ![React](https://img.shields.io/badge/React-0052CC?style=for-the-badge&logo=React&logoColor=23026AA7)
